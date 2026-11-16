@@ -6,7 +6,7 @@
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Disciplina:** Análise de Sistemas  
 **Professor:** Guibson Krause  
-**Turma:** 3 ADS A — 2026/2
+*Turma: 3 ADS A — 2026/2
 
 ### Integrantes
 - Aline de Jesus da Silva
